@@ -51,8 +51,8 @@ This project demonstrates a **secure role-based authentication and authorization
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jwt-auth.git
-cd jwt-auth
+git clone https://github.com/joemickie/jwt-authentication.git
+cd jwt-authentication
 ```
 
 ---
